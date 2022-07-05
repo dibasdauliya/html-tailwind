@@ -1,0 +1,23 @@
+{
+  "name": "html-tailwind",
+  "version": "1.0.0",
+  "description": "HTML with Tailwind Starter using Parcel.",
+  "keywords": [
+    "HTML + Tailwind",
+    "Tailwind",
+    "Parcel",
+    "Tailwind Starter",
+    "Tailwind + Parcel"
+  ],
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "Dibas Dauliya <dibasdauliya@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "parcel": "^2.6.2",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4"
+  }
+}
